@@ -1,8 +1,3 @@
-//
-    treinando github desktop
-//
-
-
 import java.time.LocalDate;
 
 public class Pessoa {
